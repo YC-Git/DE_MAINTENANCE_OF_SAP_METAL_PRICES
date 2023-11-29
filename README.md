@@ -1,4 +1,4 @@
-# DE Maintenance Of SAP Metal Prices Automation
+# DE Maintenance of SAP Metal Prices Automation
 **Note: This project was developed for our Germany purchasing team during my tenure at Phoenix Contact USA. As the code is not shareable, its purpose is to explain the project and demonstrate the process behind my solution.**
 
 
